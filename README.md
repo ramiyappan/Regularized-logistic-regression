@@ -1,5 +1,5 @@
 # Regularized-logistic-regression
-Apply Regularization on Gradient Descent for Logistic Regression to classify images of hand-written digits 2 & 9 using the MNIST dataset.
+This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
 
 ## Files on the Repository
 Regularized LR.ipynb ------> MAIN file.
