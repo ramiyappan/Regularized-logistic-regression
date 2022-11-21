@@ -1,4 +1,4 @@
-# Regularized-logistic-regression
+# Regularized Logistic Regression - Gradient Descent
 This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
 
 ## Files on the Repository
