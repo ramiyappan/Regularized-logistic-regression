@@ -14,4 +14,5 @@ mnist_2_vs_9.gz ------------> MNIST Dataset for digits 2 & 9.
     - Learning rate, for which a significant decrease in Training loss is observed.
     - Lambda, which performs better with unseen data *(validation set)*, at the same time do not underfit train data.
   * Try to find a sweet spot by using different set of values for the parameters on the development *(validation)* set.
+  * Construct plots for Accuracy & Cross-Entropy Loss vs Step-size on training and validation sets.
   * After fixing the optimal parameters, predict test data and notedown test loss.
