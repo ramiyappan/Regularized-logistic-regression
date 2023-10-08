@@ -1,9 +1,9 @@
 # Regularized Logistic Regression - Gradient Descent
 
 ## Files on the Repository
-Regularized LR.ipynb ------> MAIN file.
+`Regularized LR.ipynb` - MAIN file.
 
-mnist_2_vs_9.gz ------------> MNIST Dataset for digits 2 & 9.
+`mnist_2_vs_9.gz` - MNIST Dataset for digits 2 & 9.
 
 ## Objectives
 
